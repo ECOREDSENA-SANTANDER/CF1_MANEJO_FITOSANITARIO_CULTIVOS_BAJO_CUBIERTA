@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Fundamentos del manejo fitosanitario en cultivos bajo cubierta'
