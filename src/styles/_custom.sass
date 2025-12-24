@@ -271,3 +271,68 @@ figcaption
 
 .bg6
   background-color: #EFFCEF
+
+
+.sob1
+  margin-left: -8.5% 
+  margin-bottom: -11px
+  z-index: 2
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 4.8rem
+  & > *
+    position: relative
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 50px)
+    height: 100%
+    background-color: #F7EEEA
+  @media (max-width: 1000px)
+    padding-right: 2rem
+.crd--first
+  &::before
+    background-color: #EFFCEF
+.crd--first
+  &::before
+    border-top-left-radius: 30px
+.crd--last
+  &::before
+    border-bottom-left-radius: 30px
+
+
+
+.tabs-b__tab 
+    display: flex
+    flex-direction: column
+    align-items: center
+    padding: 20px
+    background-color: #FDFBF9 
+    border-right: 5px solid #B15B38
+    border-top: 4px solid transparent  
+    cursor: pointer
+    transition: all 0.3s ease
+    border-bottom: none
+    img
+      filter: grayscale(100%)
+      transition: filter 0.3s ease
+    &
+      
+.tabs-b.color-acento-contenido .tabs-b__tab--active 
+    border-top: 6px solid #265A29!important  
+    background-color: #265A29  
+    border-right: 5px solid #B15B38
+    border-bottom: none
+    img
+      filter: none
+.tabs-b__tab--active .tabs-b__tab__title 
+    font-weight: 700
+    color: white
+
+
+.fa-angle-right
+  color: white
