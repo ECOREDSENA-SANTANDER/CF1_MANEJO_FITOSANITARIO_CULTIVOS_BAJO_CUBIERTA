@@ -8,6 +8,22 @@
       h1 Tema 4
 
 
+    separador
+    #t_4_1.titulo-segundo.mb-5
+      h2 
+
+    separador
+    #t_4_2.titulo-segundo.mb-5
+      h2 
+
+    separador
+    #t_4_3.titulo-segundo.mb-5
+      h2 
+
+    separador
+    #t_4_4.titulo-segundo.mb-5
+      h2 
+
 </template>
 
 <script>
