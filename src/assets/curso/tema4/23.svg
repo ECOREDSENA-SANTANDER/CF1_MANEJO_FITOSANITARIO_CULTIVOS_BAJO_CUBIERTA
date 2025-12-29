@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.138" height="133.138" viewBox="0 0 133.138 133.138">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_405441" data-name="Rectángulo 405441" width="133.138" height="133.138" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1109465" data-name="Grupo 1109465" transform="translate(-475.711 -6209)">
+    <g id="Grupo_1109451" data-name="Grupo 1109451" transform="translate(475.711 6209)">
+      <g id="Grupo_1109450" data-name="Grupo 1109450" clip-path="url(#clip-path)">
+        <path id="Trazado_1000033" data-name="Trazado 1000033" d="M66.569,0A66.569,66.569,0,1,1,0,66.569,66.569,66.569,0,0,1,66.569,0" fill="#effcef"/>
+        <path id="Trazado_1000034" data-name="Trazado 1000034" d="M132.958,71.471,89.605,28.118,84.156,45.705,66.569,28.118,62.948,47.532,43.534,28.118l-7.02,21.795,16.1,16.1L26.418,99.819s16.6,21.537,27.923,32.194a66.61,66.61,0,0,0,78.617-60.542" fill="#dae8da"/>
+        <path id="Trazado_1000035" data-name="Trazado 1000035" d="M66.569,67.973,26.418,70.436V85.151l40.151,2.463,20.076-9.82Z" fill="#9d5015"/>
+        <path id="Trazado_1000036" data-name="Trazado 1000036" d="M66.569,87.614l40.151-2.463V70.436L66.569,67.973Z" fill="#804111"/>
+        <path id="Trazado_1000037" data-name="Trazado 1000037" d="M66.569,85.1H26.418V99.819H66.569l20.076-7.357Z" fill="#804111"/>
+        <rect id="Rectángulo_405440" data-name="Rectángulo 405440" width="40.151" height="14.715" transform="translate(66.569 85.104)" fill="#62320d"/>
+        <path id="Trazado_1000038" data-name="Trazado 1000038" d="M66.569,60.822a4.86,4.86,0,0,0-7.84,0,4.859,4.859,0,0,0-7.839,0,4.86,4.86,0,0,0-7.84,0,4.859,4.859,0,0,0-7.839,0,4.869,4.869,0,0,0-8.793,2.886v6.727H66.569l4.442-.933Z" fill="#56c125"/>
+        <path id="Trazado_1000039" data-name="Trazado 1000039" d="M106.72,63.708a4.869,4.869,0,0,0-8.793-2.886,4.859,4.859,0,0,0-7.839,0,4.86,4.86,0,0,0-7.84,0,4.859,4.859,0,0,0-7.839,0,4.86,4.86,0,0,0-7.84,0v9.613h40.152Z" fill="#49a420"/>
+        <path id="Trazado_1000040" data-name="Trazado 1000040" d="M71.259,44.209l-4.69,9.046a9.046,9.046,0,0,1-9.046-9.046c0-5,9.046-16.091,9.046-16.091Z" fill="#5ecdf3"/>
+        <path id="Trazado_1000041" data-name="Trazado 1000041" d="M75.615,44.209a9.046,9.046,0,0,1-9.046,9.046V28.118s9.046,11.1,9.046,16.091" fill="#2fbfef"/>
+        <path id="Trazado_1000042" data-name="Trazado 1000042" d="M89.605,28.118s-9.046,11.1-9.046,16.091a9.046,9.046,0,1,0,18.092,0c0-5-9.046-16.091-9.046-16.091" fill="#2fbfef"/>
+        <path id="Trazado_1000043" data-name="Trazado 1000043" d="M43.533,28.118s-9.046,11.1-9.046,16.091a9.046,9.046,0,1,0,18.092,0c0-5-9.046-16.091-9.046-16.091" fill="#5ecdf3"/>
+      </g>
+    </g>
+  </g>
+</svg>
