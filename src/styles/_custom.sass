@@ -167,7 +167,7 @@ figcaption
   @media only screen and (max-width: 767px)
     width: 50px
     height: 50px
-    left: -30px
+    left: -20px
 
 .bg2
   background-color: #265A29
@@ -289,11 +289,15 @@ figcaption
     content: ''
     top: 0
     right: 0
-    width: calc( 100% - 50px)
+    width: calc( 100% - 60px)
     height: 100%
     background-color: #F7EEEA
+    @media only screen and (max-width: 767px)
+      width: calc( 100% - 0px)
+    @media only screen and (min-width: 768px) and (max-width: 1023px)
+      width: calc( 100% - 0px)
   @media (max-width: 1000px)
-    padding-right: 2rem
+    padding-right: 1rem
 .crd--first
   &::before
     background-color: #EFFCEF
@@ -323,7 +327,6 @@ figcaption
 .tabs-b.color-acento-contenido .tabs-b__tab--active 
     border-top: 6px solid #265A29!important  
     background-color: #265A29  
-    border-right: 5px solid #B15B38
     border-bottom: none
     img
       filter: none
@@ -360,7 +363,6 @@ figcaption
 @media only screen and (min-width: 768px) and (max-width: 1023px)
   .cel
     display: none
-
 
 
 .fa-angle-right.br
@@ -554,3 +556,31 @@ figcaption
 
 .fa-check
   color: #7A0000
+
+
+.bg21
+  background-color: #F7EEEA
+  border-radius: 20px
+
+
+.bg22
+  background-color: #7A0000
+  border-radius: 20px
+
+
+.bg23
+  background-color: #472416
+  width: fit-content
+  margin: auto
+
+
+.bg24
+  background-color: #5FE168
+  width: fit-content
+  margin: auto
+
+
+.ct
+  display: flex !important
+  justify-content: center !important
+  align-items: center !important
