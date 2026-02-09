@@ -37,11 +37,11 @@
         .titulo-sexto.mb-4
           h5 Figura 1. 
           | #[em Cultivo bajo cubierta]
-        .row.justify-content-center.align-items-center.mb-0
-          .col-lg-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/3.png' alt='Invernadero tipo túnel con filas de flores  cultivadas en el interior.')
-          .col-lg-6
-            .cajon-b.color-primario.p-3
+        .bg25
+          .row.justify-content-center.align-items-center.mb-0
+            .col-lg-6.mb-0
+              img(src='@/assets/curso/tema1/3.png' alt='Invernadero tipo túnel con filas de flores  cultivadas en el interior.')
+            .col-lg-6.p-5
               p.mb-0 Estos sistemas se emplean principalmente para el cultivo de hortalizas (tomate, pimiento, pepino, lechuga), flores ornamentales (rosas, claveles, crisantemos), plantas medicinales y aromáticas (menta, albahaca, romero), entre otros productos de ciclo corto y alta rentabilidad.
             
 

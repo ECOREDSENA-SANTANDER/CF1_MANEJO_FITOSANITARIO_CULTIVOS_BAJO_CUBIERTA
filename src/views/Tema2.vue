@@ -92,7 +92,7 @@
       h3.mb-0 Enfermedades bacterianas
 
 
-    p.mb-5(data-aos="fade-left") Estas enfermedades se caracterizan por requerir agua libre o periodos prolongados de humedad para poder infectar las plantas. Los patógenos ingresan a través de las estomas, heridas, daños mecánicos o tejidos debilitados, generando síntomas como manchas, tizones, pudriciones y, en algunos casos, malos olores. Además, su propagación es rápida, especialmente cuando hay salpicaduras de agua o se realiza un manejo inadecuado del cultivo.
+    p.mb-4(data-aos="fade-left") Estas enfermedades se caracterizan por requerir agua libre o periodos prolongados de humedad para poder infectar las plantas. Los patógenos ingresan a través de las estomas, heridas, daños mecánicos o tejidos debilitados, generando síntomas como manchas, tizones, pudriciones y, en algunos casos, malos olores. Además, su propagación es rápida, especialmente cuando hay salpicaduras de agua o se realiza un manejo inadecuado del cultivo.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -105,7 +105,7 @@
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/6.svg", alt="alt")
                 .col
-                  h4.mb-3 a)	Rincipales enfermedades
+                  h4.mb-3 a) Principales enfermedades
                   ul.lista-ul.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-leaf
@@ -116,20 +116,19 @@
                     li.d-flex.mb-0
                       i.fas.fa-leaf
                       p.mb-0 #[b Mancha bacteriana:] provoca pequeñas manchas circulares en hojas, tallos y frutos; se oscurecen con el tiempo y reducen la calidad del cultivo.
-        
             .crd.crd--avatarHorizontal.crd--last.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/7.svg", alt="alt")
                 .col
-                  h4.mb-3 b)	Causas
+                  h4.mb-3 b) Causas
                   ul.lista-ul.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-leaf
                       p.mb-0 Condensación y presencia de hojas húmedas durante varias horas.
                   .row.justify-content-center.align-items-center.mb-0.mt-0
-                    .col-lg-8
+                    .col-lg-9
                       ul.lista-ul.mb-0
                         li.d-flex.mb-0
                           i.fas.fa-leaf
@@ -146,7 +145,7 @@
                         li.d-flex.mb-0
                           i.fas.fa-leaf
                           p.mb-0 Uso de plantas madres o semillas infectadas.
-                    .col-lg-4.d-none.d-lg-block
+                    .col-lg-3.d-none.d-lg-block
                       img(src="@/assets/curso/tema2/8.svg", alt="alt")
           .col-lg-4.sob1.d-none.d-lg-block
             img.img-t(src="@/assets/curso/tema2/9.svg", alt="alt")
@@ -161,7 +160,7 @@
 
     
     TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
-      .py-4.py-md-5.bg6(titulo="a)	Principales enfermedades" :icono="require('@/assets/curso/tema2/12.svg')")
+      .py-4.py-md-5.bg6(titulo="a) Principales enfermedades" :icono="require('@/assets/curso/tema2/12.svg')")
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-11
             .row.justify-content-center.align-items-center.p-lg-4.p-3
@@ -172,14 +171,14 @@
                 p.mb-3 #[b ToMV (virus del mosaico del tomate):] causa manchas en forma de mosaico en las hojas, deformaciones y reducción del crecimiento. Se transmite por herramientas contaminadas y por contacto entre plantas.
                 p.mb-3 #[b TYLCV (virus del rizado amarillo del tomate):] produce amarillamiento, rizado de hojas y detención del crecimiento. Su principal transmisor es la mosca blanca, que lo disemina rápidamente dentro del invernadero.
                 p.mb-0 #[b CMV (virus del mosaico del pepino):] genera manchas en mosaico, deformación de hojas y frutos pequeños. Se transmite por pulgones y por plantas o semillas infectadas.
-      .py-4.py-md-5.bg6(titulo="Características" :icono="require('@/assets/curso/tema2/13.svg')")
+      .py-4.py-md-5.bg6(titulo="b) Causas" :icono="require('@/assets/curso/tema2/13.svg')")
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-11
             .row.justify-content-center.align-items-center.p-lg-4.p-3
               .col-lg-3.col-md-6.col-10.order-lg-1.order-md-2.order-2
                 img.mb-0(src='@/assets/curso/tema2/11.png', alt='')
               .col-lg-8.order-lg-2.order-md-1.order-1.mb-lg-0.mb-4
-                h4.mb-4 b)	Causas
+                h4.mb-4 b) Causas
                 ul.lista-ul.mb-0
                   li.d-flex.mb-2
                     i.fas.fa-leaf
@@ -211,7 +210,7 @@
         .bg2.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema2/14.svg')
           h3.mb-4.text-center.text-white a)	Principal enfermedad
-          h5.mb-4.text-white #[em Meloidogyne] spp. (nematodo formador de agallas): 
+          h5.mb-4.text-white #[em Meloidogyne] spp. (Nematodo formador de agallas): 
           p.mb-0.text-white Es un nematodo microscópico que invade las raíces y forma agallas o “bolas” que impiden la absorción de agua y nutrientes. Esto provoca plantas débiles, menor crecimiento y baja producción. Se dispersa por sustratos contaminados, herramientas sucias y falta de desinfección.
       .col-lg-5.col-md-6.ps-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-0
         .bg3.p-lg-5.p-4.h-100

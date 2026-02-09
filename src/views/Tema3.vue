@@ -34,7 +34,7 @@
         PasosA.color-primario.pas.mb-0(tipo="l")
           .row.justify-content-center.align-items
             .col-lg-7
-              h4 Inspección visual: 
+              h4 Inspección visual
               p.mb-0 Es el primer paso del monitoreo. Consiste en recorrer el cultivo para observar el estado general de las plantas y detectar síntomas como manchas, amarillamiento, deformaciones, necrosis, marchitez o presencia de hongos e insectos. Su efectividad depende de la frecuencia de revisión y del conocimiento del observador.
             .col-lg-5.cel
               figure
@@ -44,7 +44,7 @@
               figure
                 img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
             .col-lg-7.text-start
-              h4 Trampas adhesivas amarillas o azules: 
+              h4 Trampas adhesivas amarillas o azules 
               p.mb-3 Estas trampas permiten detectar insectos voladores.
               ul.lista-ul.mb-0
                 li.d-flex.mb-1
@@ -55,7 +55,7 @@
                   p.mb-0 #[b Azules:] más efectivas para trips. Se colocan en diferentes zonas del invernadero para conocer la presencia, abundancia y comportamiento de las plagas.
           .row.justify-content-center.align-items
             .col-lg-7
-              h4 Trampas de feromonas: 
+              h4 Trampas de feromonas
               p.mb-0 Utilizan atrayentes sexuales específicos para capturar machos de ciertas especies de insectos. Son útiles para confirmar la presencia de la plaga, estimar su población y evaluar la eficacia de los métodos de control.
             .col-lg-5.cel
               figure
@@ -65,11 +65,11 @@
               figure
                 img(src='@/assets/curso/tema3/5.png', alt='Texto que describa la imagen')
             .col-lg-7.text-start
-              h4 Muestreo de tejidos y análisis de laboratorio: 
+              h4 Muestreo de tejidos y análisis de laboratorio 
               p.mb-0 Consiste en recolectar hojas, tallos, raíces o frutos con síntomas y enviarlos al laboratorio para su análisis. Allí se realizan observaciones microscópicas, cultivos, pruebas serológicas (ELISA) o moleculares (PCR) para identificar con precisión al patógeno. Esto ayuda a aplicar tratamientos adecuados y evitar prácticas ineficaces.                
           .row.justify-content-center.align-items
             .col-lg-7
-              h4 Registro fotográfico y bitácoras fitosanitarias: 
+              h4 Registro fotográfico y bitácoras fitosanitarias
               p.mb-0 Las fotografías permiten comparar la evolución de los síntomas con el paso del tiempo. Las bitácoras registran la información del monitoreo: fecha, ubicación, condiciones del invernadero, síntomas observados y productos aplicados. Esto facilita el seguimiento y la toma de decisiones basada en evidencia.
             .col-lg-5.cel
               figure
@@ -79,7 +79,7 @@
               figure
                 img(src='@/assets/curso/tema3/7.png', alt='Texto que describa la imagen')
             .col-lg-7.text-start
-              h4 Sistemas digitales de monitoreo: 
+              h4 Sistemas digitales de monitoreo
               p.mb-0 Incluyen sensores, aplicaciones móviles y plataformas digitales que registran variables como temperatura, humedad, luz, radiación solar, humedad del sustrato y niveles de CO₂. Estas herramientas permiten generar alertas tempranas, analizar tendencias y mejorar el manejo fitosanitario mediante agricultura de precisión.
               
            
@@ -231,11 +231,12 @@
 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-5 
-        .titulo-sexto.mb-4
+      .col-lg-5.imag.mb-5.mb-lg-0
+        .titulo-sexto.mb-3
           h5 Figura 7. 
           | #[em Planta con retraso en crecimiento y color verde pálido (4A); hojas maduras con clorosis leve generalizada (4B).]
         img.mb-lg-0.mb-4(src='@/assets/curso/tema3/16.png' alt='La figura muestra dos imágenes nombradas 4A que está a la izquierda y 4B que está a la derecha. La imagen de la izquierda muestra una planta con retraso en crecimiento y hojas pálidas. La de la derecha presenta hojas maduras con clorosis leve generalizada.')
+        figcaption.mtp Fuente: Fischer & Buitrago (2017)
       .col-lg-7.clp
         TabsA.color-acento-botones.mb-4
           .tarjeta.color-a.p-lg-5.p-4(titulo="Causas nutricionales")

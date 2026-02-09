@@ -88,12 +88,13 @@
             .row.justify-content-center.align-items-top.mb-4
               .col-lg-6.mb-lg-0.mb-4
                 h4.mb-4 b) Selección de variedades resistentes
-                p.mb-4 El uso de variedades resistentes es una estrategia preventiva muy eficiente. Estas plantas poseen características genéticas que limitan el desarrollo de enfermedades sin necesidad de aplicaciones frecuentes de productos químicos.
+                p.mb-3 El uso de variedades resistentes es una estrategia preventiva muy eficiente. Estas plantas poseen características genéticas que limitan el desarrollo de enfermedades sin necesidad de aplicaciones frecuentes de productos químicos.
+                h5.mb-3 Ejemplos:
                 ul.lista-ul.mb-0
-                  li.d-flex.mb-2
+                  li.d-flex.mb-1
                     i.fas.fa-check
                     p.mb-0 Tomates resistentes a #[em Fusarium oxysporum] o al virus TSWV.
-                  li.d-flex.mb-2
+                  li.d-flex.mb-1
                     i.fas.fa-check
                     p.mb-0 Pepinos resistentes a oídio.
                   li.d-flex.mb-0
@@ -125,7 +126,7 @@
               .col-lg-6.mb-lg-0.mb-4
                 h4.mb-4 d) Desinfección y limpieza
                 p.mb-4 La higiene es clave para evitar la entrada o permanencia de patógenos.
-                p.mb-4 Se recomienda:
+                h5.mb-4 Se recomienda:
                 ul.lista-ul.mb-0
                   li.d-flex.mb-2
                     i.fas.fa-check
@@ -227,13 +228,13 @@
                     ul.lista-ul.mb-4.mb-lg-0
                       li.d-flex.mb-3
                         i.fas.fa-check
-                        p.mb-0 #[b #[em Encarsia formosa y Eretmocerus eremicus:]] parasitoides de la mosca blanca (Bemisia tabaci, Trialeurodes vaporariorum), ampliamente utilizados en cultivos de tomate, pepino y ornamentales.
+                        p.mb-0 #[b #[em Encarsia formosa y Eretmocerus eremicus:]] parasitoides de la mosca blanca (#[em Bemisia tabaci, Trialeurodes vaporariorum]), ampliamente utilizados en cultivos de tomate, pepino y ornamentales.
                       li.d-flex.mb-3
                         i.fas.fa-check
                         p.mb-0 #[b #[em Aphidius colemani y Diaeretiella rapae:]] controlan poblaciones de pulgones en hortalizas y cereales.
                       li.d-flex.mb-3
                         i.fas.fa-check
-                        p.mb-0 #[b #[em Diglyphus isaea:]] eficaz contra minadores de hoja (Liriomyza spp).
+                        p.mb-0 #[b #[em Diglyphus isaea:]] eficaz contra minadores de hoja (#[em Liriomyza spp]).
                       li.d-flex.mb-0
                         i.fas.fa-check
                         p.mb-0 #[b #[em Trichogramma spp:]] parasitoide de huevos de lepidópteros (gusanos cogolleros, barrenadores, polillas).
