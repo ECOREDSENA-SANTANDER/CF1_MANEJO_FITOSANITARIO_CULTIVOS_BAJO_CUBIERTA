@@ -31,7 +31,7 @@
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qmKWwKcfxoo" target="_blank")
                 span Ir al sitio
                 i.fas.fa-circle-play
-   
+  
 
     separador
     #t_4_1.titulo-segundo.mb-5
