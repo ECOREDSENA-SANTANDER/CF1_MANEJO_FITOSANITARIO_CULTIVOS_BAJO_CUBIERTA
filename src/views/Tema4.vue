@@ -9,7 +9,7 @@
 
 
     .bl1
-      .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5(data-aos="fade-right") 
+      .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-0(data-aos="fade-right") 
         .row.m-0.align-items-center.justify-content-center  
           .col-lg-8.mb-0.com
             .bloque-texto-a__texto.p-lg-5.p-4
@@ -18,20 +18,6 @@
           .col-lg-4.col-md-6.mb-0
             img.enc.img-a(src='@/assets/curso/tema4/1.png', alt='')
 
-
-    .tarjeta.color-primario.des.p-4.mb-0(data-aos="fade-left")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema4/2.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0.mx-lg-4
-              p.mb-0.text-white Se presenta el tema #[b Manejo Integrado de Plagas y Enfermedades (MIPE),] destacando su importancia para mantener los cultivos sanos mediante estrategias preventivas y sostenibles. Para profundizar en este concepto y reforzar su comprensión, se invita a revisar el video de apoyo.
-            .col-sm-auto.pe-lg-5
-              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qmKWwKcfxoo" target="_blank")
-                span Ir al sitio
-                i.fas.fa-circle-play
-  
 
     separador
     #t_4_1.titulo-segundo.mb-5

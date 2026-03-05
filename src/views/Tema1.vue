@@ -16,17 +16,6 @@
           )
           .bloque-texto-g__texto.p-4.p-lg-5
             p.mb-0 Los cultivos bajo cubierta representan sistemas altamente productivos y tecnificados; sin embargo, su rendimiento depende de una gestión fitosanitaria integral, basada en la prevención y el monitoreo continuo. Esta gestión permite anticipar riesgos, intervenir oportunamente y mantener un equilibrio dinámico entre el ambiente controlado, el cultivo y los organismos que interactúan en el sistema, garantizando así una producción sostenible, eficiente y de alta calidad.
-  
-    
-    .tarjeta.color-acento-botones.p-4.p-md-5.mb-5(data-aos="fade-left")
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-5.col-md-4.mb-4.mb-md-0
-          img.img-t.img-a(src='@/assets/curso/tema1/2.svg' alt='AvatarTop')
-        .col-md.col-lg-7
-          p.mb-4.text-white Se presenta el proceso de cultivo de tomate bajo cubierta, incluyendo los cuidados esenciales y los aspectos más relevantes que deben considerarse para un manejo adecuado. Para complementar esta información, se invita a consultar el siguiente video de apoyo, el cual refuerza el tema tratado y facilita la comprensión del contenido.
-          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Eu5rJpZSDwg" target="_blank")
-            span Ir al sitio
-            i.fas.fa-circle-play
 
 
     p.mb-5(data-aos="fade-right") Los cultivos bajo cubierta son sistemas agrícolas intensivos diseñados para optimizar las condiciones ambientales y maximizar la producción de especies vegetales de alto valor comercial. Estas estructuras, como invernaderos, túneles, casas sombra y casas malla, permiten controlar variables fundamentales como la temperatura, la humedad relativa, la luminosidad, la ventilación, la concentración de CO₂ y el suministro de agua y nutrientes. Este manejo integrado se traduce en un ambiente más estable y productivo que el cultivo a cielo abierto.
@@ -52,7 +41,7 @@
 
     p.mb-5(data-aos="fade-left") Los cultivos bajo cubierta presentan una serie de características que los convierten en una alternativa altamente eficiente y sostenible dentro de la agricultura moderna. Gracias al control parcial o total de las condiciones ambientales, estos sistemas permiten optimizar el crecimiento vegetal, mejorar la calidad del producto y garantizar una producción estable a lo largo del año. Estas condiciones controladas dan lugar a múltiples ventajas productivas, entre las que se destacan la posibilidad de cultivar todo el año y obtener mayores rendimientos y uniformidad en la producción.
 
-     
+    
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4
         .bg2.p-lg-5.p-4.h-100
