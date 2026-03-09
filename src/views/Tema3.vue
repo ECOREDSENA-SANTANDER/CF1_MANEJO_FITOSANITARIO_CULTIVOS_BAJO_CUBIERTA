@@ -82,7 +82,7 @@
               h4 Sistemas digitales de monitoreo
               p.mb-0 Incluyen sensores, aplicaciones móviles y plataformas digitales que registran variables como temperatura, humedad, luz, radiación solar, humedad del sustrato y niveles de CO₂. Estas herramientas permiten generar alertas tempranas, analizar tendencias y mejorar el manejo fitosanitario mediante agricultura de precisión.
               
-           
+          
     separador
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Indicadores de alerta temprana
@@ -108,7 +108,7 @@
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Figura 4. 
-          | #[em Cambios en coloración foliar, deformaciones o marchitez]
+          | Cambios en coloración foliar, deformaciones o marchitez
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-lg-0.mb-4
         img(src='@/assets/curso/tema3/9.png' alt='Hojas con cambios de coloración y signos tempranos de marchitez.')
@@ -149,7 +149,7 @@
       .col-lg-5.mt-lg-0.mt-5
         .titulo-sexto.mb-lg-2.mb-4
           h5 Figura 5. 
-          | #[em Presencia de insectos adultos, ninfas, larvas o huevos]
+          | Presencia de insectos adultos, ninfas, larvas o huevos
         img(src='@/assets/curso/tema3/12.png', alt='Larva alimentándose de hojas, evidencia de presencia de estados inmaduros de insectos en el cultivo.')
 
 
@@ -197,7 +197,7 @@
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Figura 6. 
-          | #[em Exudaciones, manchas acuosas o mohos]
+          | Exudaciones, manchas acuosas o mohos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-lg-0.mb-4
         img(src='@/assets/curso/tema3/14.png' alt='Hoja con manchas acuosas y zonas deterioradas, que evidencian la presencia de exudaciones o moho.')
@@ -234,7 +234,7 @@
       .col-lg-5.imag.mb-5.mb-lg-0
         .titulo-sexto.mb-3
           h5 Figura 7. 
-          | #[em Planta con retraso en crecimiento y color verde pálido (4A); hojas maduras con clorosis leve generalizada (4B).]
+          | Planta con retraso en crecimiento y color verde pálido (4A); hojas maduras con clorosis leve generalizada (4B).
         img.mb-lg-0.mb-4(src='@/assets/curso/tema3/16.png' alt='La figura muestra dos imágenes nombradas 4A que está a la izquierda y 4B que está a la derecha. La imagen de la izquierda muestra una planta con retraso en crecimiento y hojas pálidas. La de la derecha presenta hojas maduras con clorosis leve generalizada.')
         figcaption.mtp Fuente: Fischer & Buitrago (2017)
       .col-lg-7.clp

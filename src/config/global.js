@@ -112,11 +112,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -138,29 +133,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Diagnóstico y monitoreo fitopatológico',
-      referencia:
-        'Rivas Figueredo, E., De Armas Vargas, Y., Elías Barreto, R.R., Alonso Hernández, L., Ramírez Medina, M.V., Drake Espinosa, L., Medina Salas, R. (2008). El diagnóstico y su papel en la fitoprotección. Temas de Ciencia y Tecnología, 12 (35), 47-54.',
-      tipo: 'PDF',
-      link: 'https://www.utm.mx/edi_anteriores/temas035/3%20nota-35.pdf',
-    },
-    {
-      tema: 'Diagnóstico y monitoreo fitopatológico',
-      referencia:
-        'FERTILAB ANÁLISIS AGRÍCOLAS. (2022). ¿Cómo realizo un muestreo para diagnóstico fitosanitario?',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=sLjKC33wvf4',
-    },
-    {
-      tema: 'Cultivos bajo cubierta',
-      referencia:
-        'SENA. (2012). Empresa Colombia Cap 4-4: cultivos alternativos.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=9ns_5PQKSfA',
-    },
-  ],
   glosario: [
     {
       termino: 'Agente causal',
@@ -285,38 +257,26 @@ export default {
     {
       referencia:
         'ASINTAGRO. (2024). Manejo integrado de plagas y enfermedades (MIPE).',
-      link:
-        'https://asintagro.com/2024/07/09/manejo-integrado-de-plagas-y-enfermedades-mipe/',
     },
     {
       referencia:
         'FAO. (2025). Codex Alimentarius: Normas internacionales de los alimentos. Límites máximos de residuos (LMR).',
-      link:
-        'https://www.fao.org/fao-who-codexalimentarius/codex-texts/maximum-residue-limits/es/',
     },
     {
       referencia:
         'Fischer, G., & Buitrago, S. (2017). Figura 4 A. Planta con retraso en crecimiento y color verde pálido; 4B. Hojas maduras con clorosis leve generalizada. En Estudio de síntomas y crecimiento de plantas de feijoa (Acca sellowiana [O. Berg] Burret) en respuesta a los elementos faltantes N, P, K, Ca, Mg y B [Tesis]. ResearchGate.',
-      link:
-        'https://www.researchgate.net/figure/Figura-4-A-Planta-con-retraso-en-crecimiento-y-color-verde-palido-4B-Hojas-maduras_fig2_341105369',
     },
     {
       referencia:
         'Gamboa, S. B., & Fernández Acevedo, V. (2020). Guía didáctica: Cultivos protegidos [PDF]. Universidad Nacional de La Plata.',
-      link:
-        'https://aulavirtual.agro.unlp.edu.ar/pluginfile.php/60743/mod_folder/content/0/3.%20Guia%20de%20Cultivos%20Protegidos%202020.pdf',
     },
     {
       referencia:
         'InfoAgrónomo. (2024). Guía visual: diagnóstico de enfermedades en las plantas.',
-      link:
-        'https://infoagronomo.net/guia-visual-diagnostico-de-enfermedades-en-las-plantas/',
     },
     {
       referencia:
         'MundoCacao. (s.f.). Manejo integrado de plagas y enfermedades (MIPE).',
-      link:
-        'https://www.mundocacao.com.co/page-bpa/c/0/i/49894263/manejo-integrado-de-plagas-y-enfermedades-mipe',
     },
   ],
   creditos: [

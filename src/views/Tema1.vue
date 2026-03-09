@@ -25,7 +25,7 @@
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Figura 1. 
-          | #[em Cultivo bajo cubierta]
+          | Cultivo bajo cubierta
         .bg25
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-6.mb-0
@@ -59,7 +59,7 @@
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Figura 2. 
-          | #[em Uniformidad del producto]
+          | Uniformidad del producto
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-6.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/6.png' alt='Cultivo de tomate en sistema bajo túnel, con hileras elevadas y un trabajador supervisando el desarrollo de los frutos.')
@@ -109,7 +109,7 @@
       .col-lg-12
         .titulo-sexto.mb-4
           h5 Figura 3. 
-          | #[em Sistema de riego]
+          | Sistema de riego
         img(src='@/assets/curso/tema1/12.png' alt='Sistema de riego por goteo aplicando agua directamente a plantas jóvenes en el cultivo.')
 
     
