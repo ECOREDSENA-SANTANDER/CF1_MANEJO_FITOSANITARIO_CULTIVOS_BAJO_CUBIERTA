@@ -42,7 +42,7 @@
       .col-lg-5.mb-lg-0.mb-4
         .bg15.p-4
           p.mb-4 La rotación consiste en alternar diferentes especies en una misma área durante ciclos sucesivos. Esto interrumpe los ciclos biológicos de plagas y enfermedades que afectan a un solo grupo de plantas.
-          p.mb-0 #[b Por ejemplo:] alternar cultivos de tomate o pimentón con maíz o sorgo reduce la presencia de #[em Fusarium spp., Rhizoctonia solani] y nematodos.
+          p.mb-0 Por ejemplo, alternar cultivos de tomate o pimentón con maíz o sorgo reduce la presencia de #[em Fusarium spp., Rhizoctonia solani] y nematodos.
       .col-lg-3.col-md-5.col-10
         .bg16.p-4.mb-lg-0.mb-4
           img(src='@/assets/curso/tema4/5.svg', alt='')
@@ -185,7 +185,7 @@
         AcordionA.activ(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-0(data-aos="fade-left")
           .row.justify-content-center.align-items.p-0.mb-0(titulo="a) Depredadores naturales")
             .col-lg-11.mb-0
-              p.mb-4 Los depredadores naturales son organismos que capturan y consumen directamente a sus presas, regulando así las poblaciones de insectos o ácaros plaga. Se menciona los más comunes en sistemas agrícolas. 
+              p.mb-4 Los depredadores naturales son organismos que capturan y consumen directamente a sus presas, regulando así las poblaciones de insectos o ácaros plaga. Se mencionan los más comunes en sistemas agrícolas. 
               .row.justify-content-center.align-items-center.mb-4
                 .col-lg-4.col-md-7.col-10.mb-lg-0.mb-4
                   img(alt="" src="@/assets/curso/tema4/15.svg")
@@ -518,7 +518,7 @@
                   li.d-flex.mb-0
                     i.fas.fa-angle-right.t4
                     p.mb-0 Se recomienda llevar un registro actualizado de las fechas de aplicación y cosecha para asegurar la trazabilidad del proceso productivo.
-            p.mb-0 Lo más importante al cumplir con esto, es la protección del consumidor, reputación del productor y acceso a mercados nacionales e internacionales.
+            p.mb-0 Lo más importante al cumplir con esto, es la protección del consumidor, la reputación del productor y el acceso a mercados nacionales e internacionales.
         .row.justify-content-center.align-items-center
           .col-lg-11
             .row.justify-content-center.align-items-center.mb-4
@@ -540,7 +540,7 @@
                   li.d-flex.mb-0
                     i.fas.fa-angle-right.t4
                     p.mb-0 Mantener un registro detallado de cada aplicación (fecha, producto, dosis, lote, aplicador) facilita la trazabilidad, la auditoría y la evaluación de la eficacia de los tratamientos.
-            p.mb-0 Resultado esperado es la reducción de riesgos para la salud del aplicador, prevención de contaminación ambiental y mejora del control técnico y administrativo del uso de agroquímicos.
+            p.mb-0 Resultado esperado es la reducción de riesgos para la salud del aplicador, la prevención de contaminación ambiental y mejora del control técnico y administrativo del uso de agroquímicos.
 
 
 </template>

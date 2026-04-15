@@ -92,7 +92,7 @@
       h3.mb-0 Enfermedades bacterianas
 
 
-    p.mb-4(data-aos="fade-left") Estas enfermedades se caracterizan por requerir agua libre o periodos prolongados de humedad para poder infectar las plantas. Los patógenos ingresan a través de las estomas, heridas, daños mecánicos o tejidos debilitados, generando síntomas como manchas, tizones, pudriciones y, en algunos casos, malos olores. Además, su propagación es rápida, especialmente cuando hay salpicaduras de agua o se realiza un manejo inadecuado del cultivo.
+    p.mb-4(data-aos="fade-left") Estas enfermedades se caracterizan por requerir agua libre o periodos prolongados de humedad para poder infectar las plantas. Los patógenos ingresan a través de los estomas, heridas, daños mecánicos o tejidos debilitados, generando síntomas como manchas, tizones, pudriciones y, en algunos casos, malos olores. Además, su propagación es rápida, especialmente cuando hay salpicaduras de agua o se realiza un manejo inadecuado del cultivo.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")

@@ -46,7 +46,7 @@
       .col-lg-5.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4
         .bg2.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema1/4.svg')
-          h3.mb-4.text-center.text-white Producción continúa durante todo el año, independiente del clima
+          h3.mb-4.text-center.text-white Producción continua durante todo el año, independiente del clima
           p.mb-0.text-white Una de las principales ventajas de este sistema es la posibilidad de producir de manera continua durante todo el año. Las estructuras protegidas, como invernaderos, túneles o casas malla, aíslan el cultivo de las variaciones climáticas externas, facilitando el mantenimiento de condiciones adecuadas de temperatura, humedad y radiación. Esto permite cultivar en cualquier estación y reduce la dependencia de los ciclos naturales.
       .col-lg-5.col-md-6.ps-lg-0.ps-md-0.mb-lg-0.mb-4
         .bg3.p-lg-5.p-4.h-100

@@ -34,236 +34,359 @@ export default {
         {
           id: 1,
           texto:
-            'El éxito de los cultivos bajo cubierta depende de una gestión fitosanitaria precisa y preventiva, que permita mantener el equilibrio entre el ambiente, el cultivo y los organismos presentes.',
+            '¿Cuál es el principal objetivo de los cultivos bajo cubierta?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Depender del clima natural', esCorrecta: false },
+            { id: 'b', texto: 'Reducir el uso de agua', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'c',
+              texto: 'Controlar las condiciones ambientales',
               esCorrecta: true,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Evitar el uso de fertilizantes',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
           texto:
-            'Los cultivos bajo cubierta son sistemas agrícolas intensivos diseñados para optimizar las condiciones ambientales y maximizar la producción de especies vegetales de alto valor comercial.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: false,
+            '¿Qué estructura se utiliza comúnmente en cultivos bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Terreno abierto', esCorrecta: false },
+            { id: 'b', texto: 'Invernadero', esCorrecta: true },
+            { id: 'c', texto: 'Pastizal', esCorrecta: false },
+            { id: 'd', texto: 'Bosque natural', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto:
-            'Los ambientes cerrados no facilitan la acumulación de calor, humedad y CO₂, condiciones que también favorecen la proliferación de hongos, bacterias, virus e insectos.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué variable se controla dentro de un invernadero?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Mareas', esCorrecta: false },
+            { id: 'b', texto: 'Presión atmosférica global', esCorrecta: false },
+            { id: 'c', texto: 'Temperatura', esCorrecta: true },
+            { id: 'd', texto: 'Rotación terrestre', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
-          texto:
-            'Los sistemas bajo cubierta no requieren un manejo técnico constante y especializado.',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: false,
+          texto: '¿Cuál es una ventaja clave de los cultivos bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Menor inversión', esCorrecta: false },
+            { id: 'b', texto: 'Producción estacional', esCorrecta: false },
+            { id: 'c', texto: 'Mayor exposición al clima', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Producción durante todo el año',
               esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
-          texto:
-            'Un aspecto relevante es la alta inversión inicial que demanda la implementación de infraestructuras bajo cubierta.',
+          texto: '¿Qué condición dentro del invernadero favorece enfermedades?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Baja humedad', esCorrecta: false },
+            { id: 'b', texto: 'Alta ventilación', esCorrecta: false },
+            { id: 'c', texto: 'Alta humedad relativa', esCorrecta: true },
+            { id: 'd', texto: 'Baja temperatura constante', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
           texto:
-            'El diagnóstico fitopatológico es el proceso mediante el cual se identifican las causas de las enfermedades o daños en las plantas, ya sean bióticas o abióticas.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: false,
+            '¿Qué problema puede causar la mala ventilación en cultivos bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              texto: 'Menor crecimiento de raíces',
               esCorrecta: false,
             },
+            { id: 'b', texto: 'Acumulación de humedad', esCorrecta: true },
+            { id: 'c', texto: 'Reducción de nutrientes', esCorrecta: false },
+            { id: 'd', texto: 'Sequía del suelo', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
-          texto:
-            'Las trampas de feromonas emplean atrayentes sexuales específicos para capturar machos de determinadas especies de insectos, facilitando la identificación y seguimiento de plagas concretas.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué tipo de cultivo es común bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Árboles forestales', esCorrecta: false },
+            { id: 'b', texto: 'Hortalizas', esCorrecta: true },
+            { id: 'c', texto: 'Pastos extensivos', esCorrecta: false },
+            { id: 'd', texto: 'Cultivos silvestres', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
           texto:
-            'El registro fotográfico y las bitácoras fitosanitarias son instrumentos fundamentales para la documentación y seguimiento del estado del cultivo.',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: false,
+            '¿Qué sistema mejora el uso eficiente del agua en estos cultivos?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Riego por inundación', esCorrecta: false },
+            { id: 'b', texto: 'Riego manual', esCorrecta: false },
+            { id: 'c', texto: 'Riego por goteo', esCorrecta: true },
+            { id: 'd', texto: 'Lluvia natural', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
           texto:
-            'La clorosis indica frecuentemente deficiencia de nutrientes como nitrógeno, hierro o magnesio, o daños causados por patógenos que afectan la absorción.',
+            '¿Qué factor aumenta la propagación de plagas dentro del invernadero?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Baja densidad de plantas', esCorrecta: false },
+            { id: 'b', texto: 'Alta ventilación', esCorrecta: false },
+            { id: 'c', texto: 'Alta densidad de siembra', esCorrecta: true },
+            { id: 'd', texto: 'Suelo seco', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
-          texto:
-            'El objetivo de MIPE no es eliminar completamente las plagas, sino mantener un equilibrio ecológico que permita una producción sostenible.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué práctica reduce la entrada de plagas al invernadero?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Uso de fertilizantes', esCorrecta: false },
+            { id: 'b', texto: 'Riego constante', esCorrecta: false },
+            { id: 'c', texto: 'Mallas anti-insectos', esCorrecta: true },
+            { id: 'd', texto: 'Podas frecuentes', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 11,
+          texto:
+            '¿Qué ocurre si no se controla el microclima en un cultivo bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Mejora la producción', esCorrecta: false },
+            { id: 'b', texto: 'Disminuyen los costos', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'c',
+              texto: 'Se favorecen enfermedades',
               esCorrecta: true,
             },
+            { id: 'd', texto: 'Aumenta la ventilación', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 12,
+          texto:
+            '¿Qué tipo de enfermedad es más común en ambientes húmedos y cerrados?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Virales', esCorrecta: false },
+            { id: 'b', texto: 'Nutricionales', esCorrecta: false },
+            { id: 'c', texto: 'Fúngicas', esCorrecta: true },
+            { id: 'd', texto: 'Mecánicas', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 13,
+          texto:
+            '¿Qué herramienta se usa para monitorear insectos en invernaderos?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Termómetro', esCorrecta: false },
+            { id: 'b', texto: 'Trampas adhesivas', esCorrecta: true },
+            { id: 'c', texto: 'Fertilizadores', esCorrecta: false },
+            { id: 'd', texto: 'Regaderas', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 14,
+          texto: '¿Qué indica la presencia de condensación en el invernadero?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Buen manejo del clima', esCorrecta: false },
+            { id: 'b', texto: 'Exceso de humedad', esCorrecta: true },
+            { id: 'c', texto: 'Falta de riego', esCorrecta: false },
+            { id: 'd', texto: 'Baja temperatura', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 15,
+          texto: '¿Qué práctica mejora la sanidad del cultivo bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Aumentar densidad', esCorrecta: false },
+            { id: 'b', texto: 'Reducir ventilación', esCorrecta: false },
+            { id: 'c', texto: 'Limpieza y desinfección', esCorrecta: true },
+            { id: 'd', texto: 'Uso excesivo de químicos', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Qué método del MIPE se aplica primero en cultivos bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Control químico', esCorrecta: false },
+            { id: 'b', texto: 'Control biológico', esCorrecta: false },
+            { id: 'c', texto: 'Métodos preventivos', esCorrecta: true },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Eliminación total de plagas',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Su respuesta evidencia que comprende los principios básicos del manejo fitosanitario.',
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 17,
+          texto: '¿Qué beneficio tiene la producción fuera de temporada?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Menor calidad', esCorrecta: false },
+            { id: 'b', texto: 'Mayor riesgo', esCorrecta: false },
+            { id: 'c', texto: 'Mejores precios de mercado', esCorrecta: true },
+            { id: 'd', texto: 'Menor producción', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 18,
+          texto: '¿Qué puede ocurrir con una mala desinfección del sustrato?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Mayor producción', esCorrecta: false },
+            { id: 'b', texto: 'Menor consumo de agua', esCorrecta: false },
+            { id: 'c', texto: 'Aparición de patógenos', esCorrecta: true },
+            { id: 'd', texto: 'Mejor ventilación', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 19,
+          texto: '¿Qué factor incrementa los costos en cultivos bajo cubierta?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Uso de luz natural', esCorrecta: false },
+            { id: 'b', texto: 'Bajo mantenimiento', esCorrecta: false },
+            { id: 'c', texto: 'Costos energéticos', esCorrecta: true },
+            { id: 'd', texto: 'Lluvias constantes', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto: '¿Qué se logra con un monitoreo constante en invernadero?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Aumentar plagas', esCorrecta: false },
+            { id: 'b', texto: 'Detectar problemas a tiempo', esCorrecta: true },
+            { id: 'c', texto: 'Reducir ventilación', esCorrecta: false },
+            { id: 'd', texto: 'Eliminar fertilización', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Se evidencia un buen dominio de los conceptos sobre Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
-        'Ha comprendido con claridad los principios básicos del manejo fitosanitario.',
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo Fundamentos del manejo fitosanitario en cultivos bajo cubierta.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
