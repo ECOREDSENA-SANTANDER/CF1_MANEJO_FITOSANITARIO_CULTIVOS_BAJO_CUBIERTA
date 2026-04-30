@@ -7,7 +7,6 @@
         span 4
       h1 Manejo Integrado de Plagas y Enfermedades (MIPE)
 
-
     .bl1
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-0(data-aos="fade-right") 
         .row.m-0.align-items-center.justify-content-center  
@@ -23,7 +22,6 @@
     #t_4_1.titulo-segundo.mb-5
       h2 4.1 Métodos culturales
 
-
     .bg14.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right"): img(src='@/assets/curso/tema4/3.png', alt='')
@@ -32,12 +30,10 @@
             img.mb-4.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/4.svg', alt='')
             p.mb-0.text-white(data-aos="fade-left") Los métodos culturales son un conjunto de prácticas agronómicas que ayudan a prevenir, reducir o limitar la aparición y propagación de plagas y enfermedades mediante el manejo adecuado del ambiente de cultivo, del suelo y de las plantas. Estas prácticas son una parte fundamental del Manejo Integrado de Plagas y Enfermedades (MIPE), ya que permiten mantener un equilibrio ecológico, disminuir el uso de productos químicos y promover sistemas productivos más sostenibles.
 
-
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Rotación y asociación de cultivos
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.mb-lg-0.mb-4
         .bg15.p-4
@@ -49,7 +45,6 @@
       .col-lg-4.col-md-7
         img.mb-4.img-t.d-none.d-lg-block(src='@/assets/curso/tema4/6.svg', alt='')
         p.mb-0 La asociación de cultivos combina dos o más especies en el mismo espacio. Esta práctica puede disminuir la colonización de plagas, generar barreras físicas y atraer insectos benéficos. Algunas combinaciones útiles incluyen maíz con frijol o tomate con albahaca.
-
 
     .tarjetaf.p-4.p-lg-5.mb-0(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -161,11 +156,9 @@
             p.mb-0.mx-lg-5 Además, un espaciamiento bien planificado optimiza el uso del agua y los fertilizantes, promoviendo un sistema productivo más eficiente y sostenible.
 
 
-
     separador
     #t_4_2.titulo-segundo.mb-5
       h2 4.2 Control biológico
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4
@@ -178,7 +171,6 @@
               img.img-a.img-t(alt="" src="@/assets/curso/tema4/14.svg")
             .col-lg-10
               p.mb-0.text-white A diferencia de los métodos químicos, el control biológico se caracteriza por ser ecológicamente sustentable, selectivo y compatible con otras prácticas agrícolas. Promueve el equilibrio natural del ecosistema agrícola, contribuyendo a la reducción de residuos tóxicos y a la preservación de la biodiversidad.
-
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
@@ -277,7 +269,6 @@
     #t_4_3.titulo-segundo.mb-5
       h2 4.3 Control mecánico y físico
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4
         img(alt="" src="@/assets/curso/tema4/19.png")
@@ -285,7 +276,6 @@
         p.mb-4 El control mecánico y físico comprende un conjunto de medidas no químicas orientadas a prevenir la entrada, dispersión o proliferación de plagas y patógenos mediante barreras, manipulación directa o modificación de las condiciones ambientales.
         p.mb-0 Estas prácticas son componentes esenciales, ya que actúan de forma preventiva, reducen la presión de plagas sin generar residuos tóxicos y son compatibles con métodos biológicos o culturales. A diferencia de los controles biológicos o químicos, los métodos mecánicos y físicos se basan en acciones directas y tangibles sobre el entorno del cultivo, con el objetivo de interrumpir los ciclos de vida de los organismos dañinos o crear condiciones adversas para su supervivencia.
 
-    
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8
         .titulo.mb-4(data-aos="fade-left")
@@ -306,17 +296,13 @@
       .col-lg-4.d-none.d-lg-block
         img(alt="" src="@/assets/curso/tema4/20.png")
 
-    
     p.mb-5(data-aos="fade-right") El beneficio principal es la prevención del ingreso de plagas vectores de virus y reducción de la necesidad de tratamientos fitosanitarios posteriores.
-
 
     .titulo.mb-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Trampas
 
-    
     p.mb-5 Las trampas son dispositivos que permiten monitorear y controlar poblaciones de insectos voladores mediante atracción visual o lumínica.
-
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-md-9.col-10.mb-lg-0.mb-4
@@ -336,18 +322,14 @@
               .col-lg-12
                 p.mb-0 Las trampas sirven tanto para monitorear la presencia y abundancia de plagas como para realizar capturas masivas en momentos de alta presión poblacional.
 
-    
     p.mb-5 Son de gran importancia porque permiten tomar decisiones basadas en datos reales del campo, ajustando estrategias de control preventivo o curativo con mayor precisión.
-
 
     .titulo.mb-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Eliminación manual de hojas o frutos afectados
-    
-
+  
     p.mb-5(data-aos="fade-right") La remoción mecánica o manual de material vegetal dañado constituye una medida simple pero altamente efectiva para disminuir la fuente de inóculo y los puntos de reproducción de plagas y patógenos.
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .bg20.p-4
@@ -364,17 +346,13 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema4/22.svg')
     
-
     p.mb-5(data-aos="fade-right") La mayor ventaja es que interrumpe el ciclo de transmisión y reduce significativamente la presión de infección en las etapas tempranas del cultivo.
-
 
     .titulo.mb-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Desinfección térmica
     
-
     p.mb-5(data-aos="fade-right") La desinfección térmica es una técnica física que utiliza altas temperaturas para eliminar o inactivar patógenos del suelo, nematodos y semillas de malezas.
-
 
     .row.justify-content-center.align-items-stretch.mb-2.mb-lg-5(data-aos="fade-left")
       .col-lg-5.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4
@@ -388,17 +366,13 @@
           h3.mb-4.text-center.text-white Vapor o vapor de agua caliente
           p.mb-0.text-white Se utiliza principalmente en sustratos o bandejas de producción de plántulas. La temperatura del vapor (80–100 °C) logra esterilizar sin alterar significativamente la estructura física del material.
 
-    
     p.mb-5(data-aos="fade-right") Con lo anterior se espera una reducción de patógenos como #[em Fusarium spp, Pythium spp, Rhizoctonia solani] y nematodos del género #[em Meloidogyne], sin necesidad de fumigantes químicos.
 
-    
     .titulo.mb-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Manejo de la temperatura y humedad interna
     
-
     p.mb-5(data-aos="fade-right") El control del microclima es esencial para mantener condiciones desfavorables al desarrollo de patógenos, especialmente hongos y bacterias que requieren humedad elevada para germinar.
-
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-6.col-10.mb-lg-0.mb-4
@@ -421,14 +395,12 @@
         .h-100.bg22.p-5.ct
           p.mb-0.text-center.text-white Sistemas automáticos de ventilación, calefacción o nebulización ayudan a mantener un ambiente estable, reduciendo el riesgo de proliferación microbiana.
 
-    
     p.mb-0(data-aos="fade-left") El objetivo es crear un entorno menos favorable para los patógenos sin comprometer el desarrollo de las plantas.
 
 
     separador
     #t_4_4.titulo-segundo.mb-5
       h2 4.4 Control químico
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.col-10.mb-lg-0.mb-4
@@ -441,7 +413,6 @@
           .col-lg-10
             p.mb-0 Dentro del Manejo Integrado de Plagas y Enfermedades (MIPE), este tipo de control debe considerarse como última alternativa, aplicándose únicamente cuando los métodos culturales, biológicos, mecánicos o físicos no han sido suficientes para mantener las poblaciones bajo el umbral económico de daño.
         p.mb-0 El uso responsable y racional de agroquímicos es indispensable para preservar la salud humana, la inocuidad alimentaria y el equilibrio ambiental, evitando la contaminación del suelo, agua y fauna benéfica.
- 
 
     .tarjetaf.p-4.p-lg-5.mb-0(data-aos="fade-left")
       SlyderA(tipo="b")

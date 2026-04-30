@@ -7,7 +7,6 @@
         span 3
       h1 Diagnóstico y monitoreo fitopatológico
 
-  
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-4.p-lg-5.mb-0
@@ -20,15 +19,12 @@
             br
             p.mb-0 El monitoreo consiste en la observación periódica y sistemática del cultivo para detectar a tiempo los primeros síntomas o signos de problemas sanitarios. Gracias a este seguimiento constante, es posible actuar antes de que las enfermedades o plagas se propaguen y generen pérdidas significativas.
 
-
     separador
     #t_3_1.titulo-segundo.mb-5
       h2 3.1 Técnicas y herramientas utilizadas
 
-
     p.mb-5(data-aos="fade-left") El diagnóstico y monitoreo fitopatológico en cultivos bajo cubierta combina técnicas tradicionales y tecnologías modernas. Estas herramientas permiten identificar de manera temprana la presencia de plagas, enfermedades o desórdenes fisiológicos, y son fundamentales para implementar un manejo integrado eficiente.
     
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10
         PasosA.color-primario.pas.mb-0(tipo="l")
@@ -87,7 +83,6 @@
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Indicadores de alerta temprana
 
-    
     .bg7.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-5.mb-lg-0.mb-md-0.mb-4
@@ -95,14 +90,11 @@
         .col-lg-9.col-md-10.ps-lg-0.ps-md-0
           p.mb-0 Los indicadores de alerta temprana son señales que permiten reconocer de manera rápida la presencia de una enfermedad, plaga o desorden fisiológico. Identificarlos oportunamente ayuda a evitar daños severos.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Cambios en la coloración foliar, deformaciones o marchitez
-
     
     p.mb-5(data-aos="fade-left") El amarillamiento, las arrugas, el enrollamiento o la caída de hojas suelen ser los primeros síntomas de estrés causado por factores bióticos o abióticos.
-
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -125,7 +117,6 @@
             .col-lg-12
               p.mb-0 La pérdida de turgencia en hojas y tallos puede deberse a falta de agua, daño radicular por nematodos, hongos del suelo (como #[em Fusarium o Verticillium]) o taponamientos vasculares.
 
-
     .bg8.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-5.mb-lg-0.mb-md-0.mb-4
@@ -133,12 +124,10 @@
         .col-lg-9.col-md-10.ps-lg-0.ps-md-0
           p.mb-0 #[b Nota:] detectar estos síntomas tempranamente permite diferenciar entre un problema nutricional o sanitario, orientando la aplicación de fertilizantes o fitosanitarios adecuados.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Presencia de insectos adultos, ninfas, larvas o huevos
 
-    
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-left")
       .col-lg-3.col-md-6.col-10.mb-lg-0.mb-md-0.mb-4
         .bg9.p-3.h-100
@@ -151,7 +140,6 @@
           h5 Figura 5. 
           | Presencia de insectos adultos, ninfas, larvas o huevos
         img(src='@/assets/curso/tema3/12.png', alt='Larva alimentándose de hojas, evidencia de presencia de estados inmaduros de insectos en el cultivo.')
-
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -176,7 +164,6 @@
             b.text-center Monitoreo constante
           p.mb-0.mx-3.text-center El uso de trampas adhesivas, trampas con feromonas y revisiones foliares semanales facilita registrar el aumento de la población de plagas y tomar decisiones basadas en umbrales de acción definidos.
 
-
     .bg11.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-5.mb-lg-0.mb-md-0.mb-4
@@ -184,14 +171,11 @@
         .col-lg-9.col-md-10.ps-lg-0.ps-md-0
           p.mb-0.text-white #[b Nota:] la detección temprana de cualquier estado de desarrollo de la plaga permite aplicar controles biológicos o mecánicos, reduciendo la necesidad de utilizar productos químicos más agresivos.
 
-
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Exudaciones, manchas acuosas o mohos
 
-    
     p.mb-5(data-aos="fade-right") Estos síntomas suelen asociarse con infecciones causadas por hongos, bacterias o virus, así como con daños físicos en los tejidos. Su presencia indica alteraciones en la salud de la planta y requiere una revisión inmediata del origen del problema.
-
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
@@ -213,7 +197,6 @@
             .col-lg-11.mb-0   
               p.mb-0 Crecimiento visible con aspecto algodonoso, polvoso o velloso sobre la superficie de las plantas. Este síntoma es característico de enfermedades causadas por hongos como #[em Botrytis, Oidium o Alternaria], y su desarrollo es favorecido por la humedad alta y la poca ventilación.
 
-
     .bg12.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-5.mb-lg-0.mb-md-0.mb-4
@@ -221,15 +204,12 @@
         .col-lg-9.col-md-10.ps-lg-0.ps-md-0
           p.mb-0.text-white #[b Nota:] la identificación visual temprana y el aislamiento del material afectado permiten aplicar tratamientos dirigidos (fungicidas o bactericidas) y evitar la propagación dentro del cultivo.
 
-
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Retraso en crecimiento o floración
 
-    
     p.mb-5(data-aos="fade-right") Este indicador refleja alteraciones fisiológicas que pueden deberse a problemas nutricionales, condiciones ambientales inadecuadas (temperatura, humedad, luz), estrés hídrico o presencia de enfermedades. Un desarrollo lento o la ausencia de flores debe considerarse una señal temprana de que la planta enfrenta alguna limitación o afectación.
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.imag.mb-5.mb-lg-0
         .titulo-sexto.mb-3
@@ -253,7 +233,6 @@
                 p.mb-0 Infecciones sistémicas o daño en raíces reducen la capacidad de absorción, ralentizando el crecimiento general.
         .bg13.p-3
           p.mb-0.text-white #[b Nota:] el monitoreo del desarrollo fenológico permite ajustar la fertilización, el riego y las prácticas culturales para recuperar el vigor del cultivo.
-
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12

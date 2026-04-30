@@ -60,7 +60,7 @@ export default {
           id: 2,
           texto:
             '¿Qué estructura se utiliza comúnmente en cultivos bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Terreno abierto', esCorrecta: false },
@@ -76,7 +76,7 @@ export default {
         {
           id: 3,
           texto: '¿Qué variable se controla dentro de un invernadero?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Mareas', esCorrecta: false },
@@ -92,7 +92,7 @@ export default {
         {
           id: 4,
           texto: '¿Cuál es una ventaja clave de los cultivos bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Menor inversión', esCorrecta: false },
@@ -112,7 +112,7 @@ export default {
         {
           id: 5,
           texto: '¿Qué condición dentro del invernadero favorece enfermedades?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Baja humedad', esCorrecta: false },
@@ -129,7 +129,7 @@ export default {
           id: 6,
           texto:
             '¿Qué problema puede causar la mala ventilación en cultivos bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -149,7 +149,7 @@ export default {
         {
           id: 7,
           texto: '¿Qué tipo de cultivo es común bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Árboles forestales', esCorrecta: false },
@@ -166,7 +166,7 @@ export default {
           id: 8,
           texto:
             '¿Qué sistema mejora el uso eficiente del agua en estos cultivos?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Riego por inundación', esCorrecta: false },
@@ -183,7 +183,7 @@ export default {
           id: 9,
           texto:
             '¿Qué factor aumenta la propagación de plagas dentro del invernadero?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Baja densidad de plantas', esCorrecta: false },
@@ -199,7 +199,7 @@ export default {
         {
           id: 10,
           texto: '¿Qué práctica reduce la entrada de plagas al invernadero?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Uso de fertilizantes', esCorrecta: false },
@@ -237,7 +237,7 @@ export default {
           id: 12,
           texto:
             '¿Qué tipo de enfermedad es más común en ambientes húmedos y cerrados?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Virales', esCorrecta: false },
@@ -254,7 +254,7 @@ export default {
           id: 13,
           texto:
             '¿Qué herramienta se usa para monitorear insectos en invernaderos?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Termómetro', esCorrecta: false },
@@ -270,7 +270,7 @@ export default {
         {
           id: 14,
           texto: '¿Qué indica la presencia de condensación en el invernadero?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Buen manejo del clima', esCorrecta: false },
@@ -286,7 +286,7 @@ export default {
         {
           id: 15,
           texto: '¿Qué práctica mejora la sanidad del cultivo bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Aumentar densidad', esCorrecta: false },
@@ -303,7 +303,7 @@ export default {
           id: 16,
           texto:
             '¿Qué método del MIPE se aplica primero en cultivos bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Control químico', esCorrecta: false },
@@ -323,7 +323,7 @@ export default {
         {
           id: 17,
           texto: '¿Qué beneficio tiene la producción fuera de temporada?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Menor calidad', esCorrecta: false },
@@ -339,7 +339,7 @@ export default {
         {
           id: 18,
           texto: '¿Qué puede ocurrir con una mala desinfección del sustrato?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Mayor producción', esCorrecta: false },
@@ -355,7 +355,7 @@ export default {
         {
           id: 19,
           texto: '¿Qué factor incrementa los costos en cultivos bajo cubierta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Uso de luz natural', esCorrecta: false },
@@ -371,7 +371,7 @@ export default {
         {
           id: 20,
           texto: '¿Qué se logra con un monitoreo constante en invernadero?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Aumentar plagas', esCorrecta: false },

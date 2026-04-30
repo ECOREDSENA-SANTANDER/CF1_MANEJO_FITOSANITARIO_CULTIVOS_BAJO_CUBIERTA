@@ -7,7 +7,6 @@
         span 2
       h1 Enfermedades del cultivo
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-4.p-lg-5.mb-0
@@ -17,14 +16,11 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Los cultivos bajo cubierta se desarrollan en un entorno con características microclimáticas particulares, como niveles elevados de humedad relativa, temperaturas más estables y una ventilación limitada. Estas condiciones, aunque beneficiosas para el crecimiento vegetal, también crean un ambiente favorable para la aparición y propagación de diversas enfermedades de origen fúngico, bacteriano y viral. Además, la densidad de siembra y la proximidad entre plantas en estos sistemas puede acelerar la transmisión de patógenos, incrementando el riesgo de pérdidas productivas.
 
-
     p.mb-5 Por ello, el manejo fitosanitario en sistemas protegidos exige estrategias preventivas rigurosas, monitoreo constante, prácticas de higiene adecuadas y la aplicación de métodos de control integrados. Comprender las enfermedades más frecuentes y sus mecanismos de propagación es fundamental para garantizar la salud del cultivo y mantener la eficiencia del sistema productivo.    
-
 
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Enfermedades fúngicas (hongos)
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-9.col-10.mb-lg-0.mb-4
@@ -37,7 +33,6 @@
             p.mb-0 Las enfermedades fúngicas son algunas de las más frecuentes en los cultivos establecidos en ambientes protegidos. Estas se desarrollan con rapidez cuando existe alta humedad, condensación y una ventilación insuficiente. Se caracterizan por la producción de esporas que se dispersan con facilidad a través del aire, el agua, el contacto entre plantas o el uso inadecuado de herramientas. 
         p.mb-0 Estos patógenos pueden afectar diferentes partes de la planta, como hojas, tallos, frutos y raíces, ocasionando pérdidas importantes en la producción si no se controlan oportunamente.
 
-    
     TabsC.color-primario.mb-5(data-aos="fade-left")
       .py-3.py-md-4.bg6.px-3(titulo="a)	Principales enfermedades")
         .row.justify-content-center.align-items-center.mb-0
@@ -86,14 +81,11 @@
                     i.fas.fa-leaf
                     p.mb-0 Presencia de heridas o estrés en las plantas, lo que aumenta su susceptibilidad a infecciones.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Enfermedades bacterianas
 
-
     p.mb-4(data-aos="fade-left") Estas enfermedades se caracterizan por requerir agua libre o periodos prolongados de humedad para poder infectar las plantas. Los patógenos ingresan a través de los estomas, heridas, daños mecánicos o tejidos debilitados, generando síntomas como manchas, tizones, pudriciones y, en algunos casos, malos olores. Además, su propagación es rápida, especialmente cuando hay salpicaduras de agua o se realiza un manejo inadecuado del cultivo.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12.offset-lg-2
@@ -150,15 +142,12 @@
           .col-lg-4.sob1.d-none.d-lg-block
             img.img-t(src="@/assets/curso/tema2/9.svg", alt="alt")
 
-    
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Enfermedades virales
 
-
     p.mb-5(data-aos="fade-right") Las enfermedades virales no tienen cura, por lo que su manejo se basa únicamente en la prevención. Estos virus pueden causar mosaicos en las hojas, deformaciones, retraso en el crecimiento y una notable disminución en la producción. Su diseminación ocurre principalmente a través de insectos vectores; una vez entran al invernadero, pueden propagarse con rapidez entre las plantas si no se controlan adecuadamente.
 
-    
     TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-4.py-md-5.bg6(titulo="a) Principales enfermedades" :icono="require('@/assets/curso/tema2/12.svg')")
         .row.justify-content-center.align-items-center.mb-0
@@ -196,15 +185,12 @@
                     i.fas.fa-leaf
                     p.mb-0 Contaminación cruzada por contacto entre plantas o por manipulación inadecuada.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Nematodos fitoparásitos
 
-    
     p.mb-5(data-aos="fade-left") Los nematodos fitoparásitos son organismos microscópicos que viven en el suelo o en el sustrato y atacan las raíces de las plantas. Al alimentarse, provocan la formación de agallas, reducción del crecimiento, marchitez y una menor capacidad de la planta para absorber agua y nutrientes. En los cultivos bajo cubierta, estos organismos pueden mantenerse por largos periodos si el sustrato no se desinfecta adecuadamente.
 
-    
     .row.justify-content-center.align-items-stretch.mb-0(data-aos="fade-right")
       .col-lg-5.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-0
         .bg2.p-lg-5.p-4.h-100
